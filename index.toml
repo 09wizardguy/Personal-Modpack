@@ -301,6 +301,16 @@ hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/ferns-fancy-inventory.pw.toml"
+hash = "941c11ff2abe78346aed7c8c67275837436fda23f7beab5b533fccb08debcc20"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "f18e6196d79be05795c41658af6ea9ad77457bb65058bdd65a0ef5d3c6f30ca0"
 metafile = true
