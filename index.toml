@@ -151,6 +151,11 @@ hash = "965c18f0b3eb3d1a7fa4b08887a9c94b39d97cc45e473924b6c5792743785d72"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
 metafile = true
@@ -188,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "f70753b73b9baee1550e932231cdca1da45c4516c6b7b8763a2a164e0bf375ce"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
