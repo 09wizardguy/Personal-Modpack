@@ -17,6 +17,6 @@ jobs:
         run: |
           git config user.name "github-actions-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout 1.20.1/fabric/prod
-          git merge 1.20.1/fabric/dev --no-ff -m "Merge dev into prod"
-          git push origin 1.20.1/fabric/prod
+          git checkout 1.21.1-prod
+          git merge 1.21.1-dev --no-ff -m "Merge dev into prod"
+          git push origin 1.21.1-prod
