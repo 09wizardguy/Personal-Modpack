@@ -131,6 +131,11 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "a0d6c1c458975efd2a57b5d8d6920b0647a884cc77463be5716f93c3f0112cb5"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "d88788a00e76a1c7489776cddff1e9179676e842a7cd9f04b59ebc9b3e40c7ac"
 metafile = true
