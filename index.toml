@@ -216,10 +216,6 @@ hash = "1613c9717c33b2ede010cabe0fa82351b345083e0d9dd7cef672b2e7035b7cd7"
 metafile = true
 
 [[files]]
-file = "mods/reterraforged-0.0.6-fabric-1.20.1.jar"
-hash = "00f6933717bf3fcad22fe3525bce3746d50fa26298d1755bf694fb06124819c8"
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "4c4185186dccb224e20da04103e40c32cfe11b8c6884b83e8d6ac60857daf969"
 metafile = true
@@ -341,10 +337,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "f18e6196d79be05795c41658af6ea9ad77457bb65058bdd65a0ef5d3c6f30ca0"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "a0fc045008eab042b01f71df6ab896bdb65c907182716b094cc7932d1dad42e0"
+hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
 metafile = true
