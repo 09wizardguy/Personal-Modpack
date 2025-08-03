@@ -17,7 +17,7 @@ MODRINTH_DATA=$(cat <<EOF
     "version_number": "$pack_version",
         "dependencies": [],
         "game_versions": ["$pack_mc_version"],
-        "version_type":  "release",
+        "version_type":  "beta",
         "loaders": ["neoforge"],
         "featured": false,
         "project_id": "4oWCBfQd",
