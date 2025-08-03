@@ -1,12 +1,12 @@
 name = "Personal Create6 Modpack"
 author = "09wizardguy"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f5f58fdfec362822e540819f85a04062ff8eea1f226ee8d2ce29cd3dafc72ac2"
+hash = "aabde29b4d193d486fbf15ea04e8c48ff375b2c12717f58dae1b493cd85ad0e8"
 
 [versions]
 minecraft = "1.21.1"
