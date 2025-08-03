@@ -36,38 +36,43 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "ef9a6da83be95d05a9328f74e3ef7378d7a5c82f191001bce69efb220f6c2498"
 metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "a75cc9645368acbba1513db4558b1e281c7eea5d77246fb232a2df55b96b09a6"
+hash = "9e8de2e97620928bf7f406a9e97e9dae6b5e7efe9ac210ee6cec4271af49617e"
 metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "57a32028d4bfb72744f5c394d1c30159ff4ee8652155a89b6c4208ffc2de38ef"
+hash = "98f1f22a846713d35b2375d4a88b18836e11f427734527d729dc1b89e7fb4da3"
 metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "7311050b0232214f32999a6eb3e75dc64de40ea1962bbb166f3e5499495db352"
+hash = "8e88d68a9dee5ca107ea3fd5d5394e52ae4e4f03decfc33974d6a958ccb200b5"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "60231e01fc1a64f3f0b155738bf5f56e9cb0f84d930b04aac83858357c4deaaf"
+hash = "0177b98d7552743df5bd62e45d2efe012d8d416c53f94735a0d4074468f5a2ca"
 metafile = true
 
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
-hash = "0460af8d5a94ab99cb64f2e153f31fc259b28d56cbd51098750235cfbe1cb608"
+hash = "1f888caa5c68fc4e1a03873c7722ac53949f4177c423e3400039f77e5b90aecd"
 metafile = true
 
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
-hash = "c8998b3a34e0f100f2c37b2df8dbaec79ae8f86aca62992f145746fa286a4b72"
+hash = "6cf53d31ef36522ed9fd8273a94a5ca71af7cf986fc79733448f9eaa07862ac1"
 metafile = true
 
 [[files]]
@@ -87,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "bffb086ccb18831669912bfca626b405a180555c3e395301089d3104336dbba8"
+hash = "0d3bcce402b76cfa495a68c987e2a67a79a9bdf625a45266dec855610f1bd48e"
 metafile = true
 
 [[files]]
